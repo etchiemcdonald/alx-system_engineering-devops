@@ -1,0 +1,2 @@
+#!/bin/bash
+geep -i "bin" /etc/passwd | wc -l
